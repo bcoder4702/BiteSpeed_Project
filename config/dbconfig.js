@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: 'localhost',
+    HOST: process.env.DB_HOST || 'localhost',
     USER: 'root',
     PASSWORD: '',
     DB: 'bitespeedproject',
