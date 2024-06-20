@@ -1,5 +1,5 @@
 ```markdown
-# Bitespeed Identity Reconciliation Service
+# Bitespeed Identity Reconciliation Service.
 
 ## Overview
 
